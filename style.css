@@ -1,0 +1,52 @@
+
+body{
+	background-color: #28282d;
+}
+.mainHeading{
+	color:white;	
+	font-size: 60px;
+	font-family: 'Audiowide', cursive;
+
+}
+.mainBox{
+	
+	min-width: 150px;
+	max-width: 500px;
+	margin:50px auto auto auto;
+
+
+}
+.searchTerm{
+	max-height:34px;
+	margin-top: 50px;
+	margin-left:16px;
+}
+.box{
+	height: 34px;
+	width:65%;
+	margin: auto;
+	opacity: 1;
+	border-radius: 10px;
+	
+
+}
+.button1,.button2{
+	background-color: #5d5f60;
+	color: white;
+}
+.secondaryBox{
+	max-width: 700px;
+	min-height: 200px;
+	margin: 20px auto;
+}
+ul li{
+	background-color: white;
+	border-radius: 6px;
+	padding: 5px;
+	margin-top:15px;
+	font-size: 15px;
+}
+.by{
+	color:white;
+	font-family: 'Audiowide', cursive;
+}
